@@ -20,7 +20,7 @@
 
 ## Reference
 
- webinar entitled Secure GitOps Workflows with GitHub Actions and HashiCorp Vault, delivered on August 25<sup>th</sup> 2020, which can be viewed online [**here**](https://www.hashicorp.com/resources/secure-gitops-workflows-with-github-actions-and-hashicorp-vault).
+ Learned from this webinar entitled Secure GitOps Workflows with GitHub Actions and HashiCorp Vault, delivered on August 25<sup>th</sup> 2020, which can be viewed online [**here**](https://www.hashicorp.com/resources/secure-gitops-workflows-with-github-actions-and-hashicorp-vault).
 
 
 ## Credits
