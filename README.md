@@ -1,11 +1,13 @@
 # Vault and Runner Setup
 > Vault and self hosted runner setup for Rubiooo/api-ops and Rubiooo/api
 
-## About
+## Phase I: K8S and Vault Setup
+[tf_az_base: rg] git@github.com:Rubiooo/tf_az_base.git
 
-This repository contains Vault policies and AWS IAM policies for an "EKS / ECR Admin" self hosted runner (more privileged) and an "ECR Push" self hosted runner (less privileged).
 
-![image](https://user-images.githubusercontent.com/2993937/90143755-fb805a00-dd4b-11ea-90bf-44a38210373d.png)
+
+
+
 
 ## Reference
 
@@ -17,3 +19,5 @@ This repository contains Vault policies and AWS IAM policies for an "EKS / ECR A
 - https://www.vaultproject.io/docs/secrets/aws#usage
 - https://learn.hashicorp.com/tutorials/vault/approle
 - https://learn.hashicorp.com/tutorials/vault/getting-started-dynamic-secrets
+
+
