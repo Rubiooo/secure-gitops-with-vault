@@ -7,7 +7,7 @@
 - [tf_az_network] https://github.com/Rubiooo/tf_az_network
 - [tf_az_keyvault] https://github.com/Rubiooo/tf_az_keyvault
 - [tf_az_service_principals] https://github.com/Rubiooo/tf_az_service_principals
-- [tf_az_aks] https://github.com/Rubiooo/aks
+- [tf_az_aks] https://github.com/Rubiooo/tf_az_aks
 - [vault-helm] https://github.com/Rubiooo/vault-helm
 
 
