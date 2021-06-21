@@ -1,5 +1,5 @@
-# Vault and Runner Setup
-> Vault and self hosted runner setup for Rubiooo/api-ops and Rubiooo/api
+# Secure GitOps with HashiCorp Vault
+> Vault, Github Actions, K8S, AWS Dynamic Secrect Engine 
 
 ## Part I: K8S and Vault Setup (repos)
 > set up azure infrasturcture including azure vnet, az key vault, aks cluster; and deploy vault with auto-unsealing 
